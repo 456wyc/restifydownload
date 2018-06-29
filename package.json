@@ -1,0 +1,16 @@
+{
+  "name": "restifydownload",
+  "version": "1.0.1",
+  "description": "为 restify 提供下载文件的方法",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "restify",
+    "sendFile",
+    "download"
+  ],
+  "author": "wyc",
+  "license": "MIT"
+}
