@@ -1,6 +1,6 @@
 {
   "name": "restifydownload",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "为 restify 提供下载文件的方法",
   "main": "index.js",
   "scripts": {
